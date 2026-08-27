@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CursorLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FoucsNoGo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InitFocusHieghtLigth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InitFocusOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KeyCtrl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KeyEnter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KeyEsc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KeyMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KeyTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LimitNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MouseMoveAndLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TextBoxGotFocus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
