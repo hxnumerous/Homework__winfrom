@@ -1,0 +1,18 @@
+[
+  {
+    "Id": null,
+    "Name": "三国演义",
+    "Author": "罗贯中",
+    "Price": 88,
+    "BookLabel": "战争\r\n谋略\r\n权利",
+    "IsBorrow": true
+  },
+  {
+    "Id": "3d8f529d-5029-4404-9f11-f04825fb7d54",
+    "Name": "西游记",
+    "Author": "吴承恩",
+    "Price": 77,
+    "BookLabel": "神话\r\n历险",
+    "IsBorrow": true
+  }
+]

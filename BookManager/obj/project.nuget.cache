@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqbxmfR5GaM=",
+  "success": true,
+  "projectFilePath": "D:\\Xin\\winform\\BookManager\\BookManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\antdui\\2.4.7\\antdui.2.4.7.nupkg.sha512"
+  ],
+  "logs": []
+}
